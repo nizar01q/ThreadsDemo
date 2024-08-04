@@ -18,6 +18,6 @@ public class Ex2  {
             t1.join();
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
-        }
+         }
     }
 }
